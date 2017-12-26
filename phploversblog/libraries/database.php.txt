@@ -1,0 +1,8 @@
+<?php
+
+class Database{
+ public $host=DB_HOST;
+ public $username=DB_USER;
+ public $password=DB_PASS;
+ public $db_name=DB_NAME;
+}
